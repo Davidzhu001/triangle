@@ -1,5 +1,5 @@
 class Rule
-	attr_accessor :b1, :b2, :b3, :name
+	attr_accessor :b1, :b2, :b3
   def initialize
 	puts 'you got the first step.'
   end
